@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="mixmatch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mixmatch_jar</output-path>
+    <root id="root">
+      <element id="archive" name="mixmatch.jar">
+        <element id="module-output" name="mixmatch" />
+      </element>
+    </root>
+  </artifact>
+</component>
